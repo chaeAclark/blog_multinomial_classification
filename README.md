@@ -1,1 +1,1 @@
-# blog_multinomial_classification
+# Multinomial Classification
